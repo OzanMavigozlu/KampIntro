@@ -1,0 +1,12 @@
+C:\Users\Ozi\source\repos\KampIntro\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+C:\Users\Ozi\source\repos\KampIntro\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+C:\Users\Ozi\source\repos\KampIntro\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+C:\Users\Ozi\source\repos\KampIntro\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+C:\Users\Ozi\source\repos\KampIntro\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+C:\Users\Ozi\source\repos\KampIntro\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\Ozi\source\repos\KampIntro\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+C:\Users\Ozi\source\repos\KampIntro\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+C:\Users\Ozi\source\repos\KampIntro\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Ozi\source\repos\KampIntro\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+C:\Users\Ozi\source\repos\KampIntro\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\Ozi\source\repos\KampIntro\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache

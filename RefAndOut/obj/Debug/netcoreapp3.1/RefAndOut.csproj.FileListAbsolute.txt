@@ -1,0 +1,12 @@
+C:\Users\Ozi\source\repos\KampIntro\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.exe
+C:\Users\Ozi\source\repos\KampIntro\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.deps.json
+C:\Users\Ozi\source\repos\KampIntro\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.runtimeconfig.json
+C:\Users\Ozi\source\repos\KampIntro\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.runtimeconfig.dev.json
+C:\Users\Ozi\source\repos\KampIntro\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.dll
+C:\Users\Ozi\source\repos\KampIntro\RefAndOut\bin\Debug\netcoreapp3.1\RefAndOut.pdb
+C:\Users\Ozi\source\repos\KampIntro\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.AssemblyInfoInputs.cache
+C:\Users\Ozi\source\repos\KampIntro\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.AssemblyInfo.cs
+C:\Users\Ozi\source\repos\KampIntro\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.csproj.CoreCompileInputs.cache
+C:\Users\Ozi\source\repos\KampIntro\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.dll
+C:\Users\Ozi\source\repos\KampIntro\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.pdb
+C:\Users\Ozi\source\repos\KampIntro\RefAndOut\obj\Debug\netcoreapp3.1\RefAndOut.genruntimeconfig.cache
